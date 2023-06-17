@@ -1,4 +1,4 @@
-[![header](/assets/Custom-Recovery-Header.svg)](https://github.com/Loominagit/fog-stuff/)
+[![header](/assets/others/recov-header.svg)](https://github.com/Tanmsyffa/fog_documentation/)
 
 ## First off, what is custom recovery?
 Custom recovery is a replacement of your existing recovery menu in your Android phone, allowing for several features that are not normally supported by stock recovery images. Being a custom recovery, it's able to do everything your device's normal recovery menu can do and more.
@@ -19,7 +19,7 @@ Notes:
 - This custom recovery is [a port from dblenk9's TWRP build for spes/spesn](https://forum.xda-developers.com/t/redmi-10c-twrp.4449101/post-87063273).
 - Flashing this version while you're on Android 12 ROM **will cause softbrick**, **flash newer version instead**.
 
-<a href="https://drive.google.com/file/d/1mhrghxQCiHmhpYKZqKMHxzb82v9cVvrp/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.6.1" width="250" height="87"></a>
+<a href="https://drive.google.com/file/d/1mhrghxQCiHmhpYKZqKMHxzb82v9cVvrp/view?usp=share_link"><img src="/assets/download/gdrive.svg" alt="Download TWRP v3.6.1" width="250" height="87"></a>
 
 ---
 
@@ -32,7 +32,7 @@ Build by: [@dblenk9](https://github.com/boedhack99)
 Changelog:
 - Sync with latest TWRP commits
 
-<a href="https://drive.google.com/file/d/1AvzVHsGdy2EGjXXzn2Cup5phvCokHUdl/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.6.2" width="250" height="87"></a>
+<a href="https://drive.google.com/file/d/1AvzVHsGdy2EGjXXzn2Cup5phvCokHUdl/view?usp=share_link"><img src="/assets/download/gdrive.svg" alt="Download TWRP v3.6.2" width="250" height="87"></a>
 
 ---
 
@@ -49,4 +49,4 @@ Changelog:
 - Fixed MTP
 - Supports Android 13 decryption
 
-<a href="https://drive.google.com/file/d/1vaOBvXv477Yb9wOhekCuHOLPVmpcVRxx/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
+<a href="https://drive.google.com/file/d/1vaOBvXv477Yb9wOhekCuHOLPVmpcVRxx/view?usp=share_link"><img src="/assets/download/gdrive.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
